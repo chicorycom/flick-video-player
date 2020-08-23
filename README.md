@@ -1,4 +1,4 @@
-# Flick Video Player
+# Flick Video Player for chicorycom
 
 Flick Video Player is a video player for flutter.
 The [video_player](https://pub.dev/packages/video_player) plugin gives low level access for the video playback. Flick Player wraps `video_player` under the hood and provides base architecture for developers to create their own set of UI and functionalities.
